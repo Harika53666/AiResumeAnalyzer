@@ -1,6 +1,6 @@
 # AiResumeAnalyzer
 
-**🚀Project Overview**
+##**🚀Project Overview**##
 
 AI Resume Analyzer is an intelligent web application that analyzes resumes using a Large Language Model (LLM) powered by the Groq API.
 
@@ -16,7 +16,7 @@ Career enhancement insights
 
 This project is designed to help job seekers evaluate and improve their resumes using AI.
 
-🎯 **Key Features**
+🎯 ##**Key Features**##
 
 📂 Upload resume in PDF format
 
@@ -44,7 +44,7 @@ PDF Processing: PyPDF2
 
 Version Control: Git & GitHub
 
-**⚙️ How It Works**
+##**⚙️ How It Works**##
 
 The user uploads their resume (PDF format).
 
