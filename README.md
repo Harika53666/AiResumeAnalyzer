@@ -64,7 +64,7 @@ Suggested improvements
 
 The results are displayed instantly on the web interface.
 
-##**Output Screenshots**##
+## **Output Screenshots** ##
 
 <img width="604" height="798" alt="Screenshot 2026-02-19 173301" src="https://github.com/user-attachments/assets/dd131c5b-9dec-4e93-a835-ce82881a33ee" />
 
