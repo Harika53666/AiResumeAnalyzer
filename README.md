@@ -16,7 +16,7 @@ Career enhancement insights
 
 This project is designed to help job seekers evaluate and improve their resumes using AI.
 
-🎯 ## **Key Features** ##
+ ## **🎯Key Features** ##
 
 📂 Upload resume in PDF format
 
